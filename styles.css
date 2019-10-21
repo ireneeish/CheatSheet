@@ -1,0 +1,45 @@
+.code {
+    font-family: monospace;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+body {
+    color: #576066;
+    background-image: url("https://data.whicdn.com/images/212567073/original.gif");
+    background-size: cover;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    font-family: "American Typewriter";
+    font-weight: normal;
+}
+
+h2 {
+    font-family: Optima;
+}
+
+table, th, td {
+    font-family: Arial;
+    background-color: #ECE7E3;
+    border-collapse: collapse;
+    border: 1px dotted gray;
+    padding: 10px;
+}
+
+td {
+    text-align: left;
+}
+
+th {
+    background-color: #B7A0C0;
+    color: white;
+}
+
+a {
+    font-style: italic;
+    font-size: 14px;
+}
